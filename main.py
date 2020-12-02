@@ -1,4 +1,4 @@
-#  Areas nay seem redundant, but I coded to show case the different parts.
+#  Areas nay seem redundant, but I coded to exhibit the different parts.
 
 def countValid(arr):
     count = 0
