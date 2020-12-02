@@ -27,7 +27,6 @@ def countToboggan(arr):
 
         if not(pw[min] == char and pw[max] == char) and (pw[min] == char or pw[max] == char):
             count+= 1
-
     return count
 
 
