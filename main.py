@@ -1,4 +1,4 @@
-with open("ans1.txt") as file:
+with open("ans.txt") as file:
     ans = file.read().strip().split("\n\n")
 
 k1 = 0
